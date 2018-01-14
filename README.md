@@ -1,8 +1,10 @@
 # SYSTEME-EXPERT-Familial
 
-Expert System That Allow Users To Check Comptability Between Couples and Give Guide For Having Kids 
+Expert System That Allow Users To Check Comptability Between Couples and Give them Guide on Having Kids 
 
-Coded Using Prolog And PHP Interface 
+based on their psy , Financial State ... And More 
+
+Coded Using Prolog And PHP Web Interface 
 
 
 Video Demonstration : 
