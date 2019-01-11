@@ -4,7 +4,7 @@ Expert System That Allow Users To Check Comptability Between Couples and Give th
 
 based on their psy , Financial State ... And More 
 
-Coded Using Prolog And PHP Web Interface 
+Coded Using Prolog And PHP ( which means it has an Web Interface )  
 
 
 Video Demonstration : 
