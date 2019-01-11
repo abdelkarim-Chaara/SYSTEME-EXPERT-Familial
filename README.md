@@ -9,4 +9,4 @@ Coded Using Prolog And PHP Web Interface
 
 Video Demonstration : 
 
-[![Watch the video](https://lh3.googleusercontent.com/jroMEI1aqkonlfZ3eNgTXEdqKCNonLLrgbDM1k1TVuPF45e1tLh932_ZZPL75iBJxrJc-KUxpmV5121BRTgNR3DPSJFkfkNj1_-tUP0KJvzZV79oziPpZym7_DMj)](https://www.youtube.com/watch?v=KORCf5gDSmY&feature=youtu.be)
+[![Watch the video](https://drive.google.com/open?id=1DJ4B_LdwEZyNyG29Om58YhX0uF0PvL0E)](https://www.youtube.com/watch?v=KORCf5gDSmY&feature=youtu.be)
